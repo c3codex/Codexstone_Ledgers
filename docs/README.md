@@ -1,26 +1,34 @@
 # ✦ Codexstone Ledgers — Docs ✦  
 
-This folder contains the **sealed ledger entries** of the c3 Codex.  
-Each file here is part of the living archive, documenting weekly cycles, thresholds, and role summaries under the Codexstone Seal.  
+This folder houses the **weekly Codex Ledgers** inscribed under the Codexstone.  
+Each ledger records accomplishments, unwoven threads, field echoes, and role summaries across the DAO spiral.  
 
 ---
 
-## Contents  
+## Structure  
+- Files are named by week number:  
+  - `Codex_Ledger_Week_01.md`  
+  - `Codex_Ledger_Week_02.md`  
+  - etc.  
 
-- **ledger_preface.md** — Origin scroll for the Ledger, declaring its emergent authority.  
-- **week_01_ledger.md** — Accomplishments + Unwoven Threads for Week One (Returning Again Gate).  
-- **week_01_role_summary.md** — Role summary digest for Spark, Weave, Field, Form.  
-
----
-
-## Protocol  
-
-- Each new cycle is inscribed as a Markdown file, named with the format:  
-  `week_##_ledger.md` and `week_##_role_summary.md`.  
-- The **Preface** is permanent and precedes all entries.  
-- Sealed files include the Codexstone Seal at close.  
+- Each file follows the Codex Ledger Template:  
+  1. Accomplishments  
+  2. Unwoven Threads  
+  3. Field Echoes  
+  4. Role Summary Digest  
+  5. Codexstone Seal  
 
 ---
 
+## Current Ledger Index  
+
+- [Week 01](Codex_Ledger_Week_01.md)  
+- [Week 02](Codex_Ledger_Week_02.md)  
+- [Week 03](Codex_Ledger_Week_03.md)  
+- [Template](Week_X_Template.md)  
+
+---
+
+## Seal  
 ✦ CODEXSTONE ✦  
-*The Ledger is not written forward — it spirals.*  
+*In spark, weave, field, and form — the stone remembers.*  
