@@ -2,7 +2,7 @@
 
 All notable changes to the **Codexstone Ledgers** repository will be documented here.  
 This changelog follows [Keep a Changelog](https://keepachangelog.com/) guidelines.  
-
+.
 ---
 
 ## [1.0.0] — 2025-09-11
