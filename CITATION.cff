@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use the Codexstone Ledgers, please cite them as below."
+title: "Codexstone Ledgers"
+authors:
+  - family-names: "c3 Codexstone Council"
+    given-names: ""
+    affiliation: "c3 Community Partners nonprofit DAO, LLC"
+    orcid: "https://orcid.org/0009-0000-0000-0000" # optional placeholder
+date-released: 2025-09-11
+version: "1.0.0"
+doi: "10.0000/c3codex.ledgers.001" # optional, replace if minted w/ DOI
+url: "https://github.com/c3codex/Codexstone_Ledgers"
+preferred-citation:
+  type: report
+  title: "Codexstone Ledgers: Weekly Departure Reports & Role Summaries"
+  authors:
+    - name: "c3 Codexstone Council"
+  year: 2025
+  publisher: "c3 Community Partners nonprofit DAO, LLC"
