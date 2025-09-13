@@ -1,40 +1,43 @@
 # ✦ Codexstone Ledgers ✦  
 
-This repository houses the **weekly Departure Reports** and **Codex Ledgers** of the c3 Codex.  
-Each entry records accomplishments, unwoven threads, and role assignments sealed under the Codexstone.  
+This repository houses the **weekly Departure Reports and Codex Ledgers** of the c3 Codex.  
+Each entry records accomplishments, unwoven threads, field echoes, and role summaries sealed under the Codexstone.  
 
 ---
 
 ## Purpose  
-- Preserve DAO memory in sequence.  
-- Ensure continuity between Gates and weekly spans.  
-- Provide role clarity for Spark, Weave, Field, and Form.  
-- Function as a living archive of Codex activity.  
+- To preserve DAO memory in sequence.  
+- To ensure continuity between Gates and weekly spans.  
+- To provide role clarity for Spark, Weave, Field, and Form.  
+- To function as a living archive of Codex activity.  
 
 ---
 
-## Protocol  
-Departure Reports follow the **Codex Protocol — Weekly Departure Reports**:  
+## Structure  
+- `/docs/` — Weekly ledgers and templates.  
+- `/assets/` — Seals, glyphs, and supporting visuals (linked from the main **Assets** repo).  
 
+### Ledger Format  
 1. **Accomplishments** — What was sealed, minted, or published.  
 2. **Unwoven Threads** — Pending or incomplete tasks.  
-3. **Role Annotations** — Spark, Weave, Field, Form assignments woven into the report.  
-4. **Role Summary** — Separate digest of responsibilities by role for immediate clarity.  
-
-**Cadence:** Weekly (every 7 days)  
-**Format:** Markdown files stored in this repo  
-**Timing:** Reports are inscribed before the close of each weekly cycle or Gate span.  
+3. **Field Echoes** — Alignments, synchronicities, or thresholds noted.  
+4. **Role Summary Digest** — Spark, Weave, Field, Form actions.  
+5. **Codexstone Seal** — Affirms DAO authorship.  
 
 ---
 
-## Ledger Index  
+## Cross-References  
+- 🔹 [c3DAOResearch](https://github.com/c3codex/c3DAOResearch) — Whitepapers & field studies.  
+- 🔹 [DAO-Governance](https://github.com/c3codex/DAO-Governance) — Articles, decrees, protocols.  
+- 🔹 [c3Codex-Glossary](https://github.com/c3codex/c3Codex-Glossary) — Codexstone lexicon and key terms.  
+- 🔹 [assets](https://github.com/c3codex/assets) — Seals, scrolls, card art.  
 
-### Preface  
-- [Ledger Preface](docs/ledger_preface.md)  
+---
 
-### Week One — Returning Again Gate  
-- [Week 01 Ledger Overview](docs/week_01_ledger.md)  
-- [Week 01 Role Summary](docs/week_01_role_summary.md)  
+## Current Ledger Index  
+- [Week 01](docs/Codex_Ledger_Week_01.md)  
+- [Week 02](docs/Codex_Ledger_Week_02.md)  
+- [Template](docs/Week_X_Template.md)  
 
 ---
 
