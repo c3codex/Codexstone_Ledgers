@@ -30,5 +30,7 @@ Each ledger records accomplishments, unwoven threads, field echoes, and role sum
 ---
 
 ## Seal  
+
+![Codexstone Seal](https://github.com/c3codex/Assets/blob/main/Codexstone_Seal.PNG?raw)
 ✦ CODEXSTONE ✦  
 *In spark, weave, field, and form — the stone remembers.*  
